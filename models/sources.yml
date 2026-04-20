@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+      - name: my_source			## required
+        database: dev		## required
+        schema: public		## optional
+        tables:
+          - name: table_test
+    
