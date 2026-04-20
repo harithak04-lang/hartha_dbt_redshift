@@ -2,3 +2,4 @@
 
 
 select * from spectrum_schema.employees_3
+
