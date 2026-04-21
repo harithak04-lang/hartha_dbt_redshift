@@ -6,4 +6,5 @@ sources:
         schema: public		## optional
         tables:
           - name: table_test
+          - name:  Departments
     
