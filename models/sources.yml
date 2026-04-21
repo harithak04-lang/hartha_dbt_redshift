@@ -8,6 +8,7 @@ sources:
           - name: table_test
           - name: departments
           - name: Employees
+          - name: hr_employees
 
       - name: glue_src		## required
         schema: iceberg_schema		## optional
