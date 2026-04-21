@@ -8,5 +8,10 @@ sources:
           - name: table_test
           - name: departments
           - name: Employees
+
+      - name: glue_src		## required
+        schema: iceberg_schema		## optional
+        tables:
+          - name: emp_s3_details
           
     
